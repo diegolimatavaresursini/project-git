@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+
+
+img{
+    width: 100;
+    height: 50vh;
+    display: inline;
+}
+.links-header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    background: #23232e;
+    height: 8vh;
+  }
+  
